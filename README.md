@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superhumanhcl&label=Profile%20views&color=0e75b6&style=flat" alt="superhumanhcl" /> </p>
 
-- 💬 Ask me about **Aap dev, AI, Python, C++ ,C, Java ,Kotlin, Littile bit about OS & Linux , Business , Soft skills , Physicology ,**
+- 💬 Ask me about **App dev, AI, Python, C++ ,C, Java ,Kotlin, Littile bit about OS & Linux , Business , Soft skills , Physicology ,**
 
 - 📫 How to reach me **https://bio.link/hcltanmoy**
 
