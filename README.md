@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hcl [AKA Tanmoy]</h1>
-<h3 align="center">A passionate from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif">
 
